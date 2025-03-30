@@ -28,7 +28,7 @@ A sleek command-line interface for controlling Spotify from your terminal.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/shellify.git
+git clone https://github.com/ratludu/shellify.git
 cd shellify
 ```
 
