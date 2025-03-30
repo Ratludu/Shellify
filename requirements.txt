@@ -1,0 +1,5 @@
+click
+spotipy
+numpy
+pandas
+python-dotenv
